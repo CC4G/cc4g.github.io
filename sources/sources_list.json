@@ -1,0 +1,10 @@
+{
+    "sources": {
+        "1.8.9": "https://cc4g.github.io/sources/sources-1.8.9.zip",
+        "1.12.2": "https://cc4g.github.io/sources/sources-1.12.2.zip"
+    },
+    "resources": {
+        "1.8.9": "https://cc4g.github.io/sources/resources-1.8.9.zip",
+        "1.12.2": "https://cc4g.github.io/sources/resources-1.12.2.zip"
+    }
+}
